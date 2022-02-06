@@ -1,6 +1,5 @@
 # WarClient_X
 lvl 6 executer for roblox 
-this is a lvl 4 executer for roblox
 
 how to download
 
